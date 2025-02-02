@@ -1,0 +1,2 @@
+outfitter "Common Outfits"
+    "Long Range Asteroid Scanner"
