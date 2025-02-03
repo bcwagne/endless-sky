@@ -3,6 +3,6 @@ outfit "Long Range Asteroid Scanner"
 	cost 300000
 	thumbnail "outfit/asteroid scanner"
 	"mass" 24
-	"outfit space" 24
+	"outfit space" -24
 	"asteroid scan power" 160
 	description "The Long Range Asteroid Scanner allows enterprising miners the ability to scan for valuable minerals at greater range than a normal asteroid scanner."
