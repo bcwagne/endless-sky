@@ -1,4 +1,4 @@
 name "Long Range Asteroid Scanner"
-about "An asteroid scanner that scans an entire system for mineable asteroids."
+about "An asteroid scanner that detects mineable asteroids at greater range than a normal asteroid scanner."
 authors
 	bcwagne
